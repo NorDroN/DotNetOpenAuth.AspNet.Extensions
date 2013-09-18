@@ -1,4 +1,4 @@
-﻿using DotNetOpenAuth.AspNet.Clients;
+﻿using DotNetOpenAuth.AspNet.Internal;
 using Newtonsoft.Json.Linq;
 using System;
 using System.Collections.Generic;
@@ -6,7 +6,7 @@ using System.Linq;
 using System.Net;
 using System.Text;
 
-namespace nordron.OAuth.Clients
+namespace DotNetOpenAuth.AspNet.Clients
 {
     /// <summary>
     /// Yandex authentication client.

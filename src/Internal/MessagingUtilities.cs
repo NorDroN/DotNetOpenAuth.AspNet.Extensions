@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace nordron.OAuth
+namespace DotNetOpenAuth.AspNet.Internal
 {
     public static class MessagingUtilities
     {

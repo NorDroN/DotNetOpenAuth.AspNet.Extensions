@@ -2,7 +2,7 @@
 using System.Security.Cryptography;
 using System.Text;
 
-namespace nordron.OAuth.Extensions
+namespace DotNetOpenAuth.AspNet.Extentions
 {
     /// <summary>
     /// Set of extension methods for <see cref="string"/>.

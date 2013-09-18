@@ -1,13 +1,13 @@
-﻿using DotNetOpenAuth.AspNet.Clients;
+﻿using DotNetOpenAuth.AspNet.Extentions;
+using DotNetOpenAuth.AspNet.Internal;
 using Newtonsoft.Json.Linq;
-using nordron.OAuth.Extensions;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Net;
 using System.Text;
 
-namespace nordron.OAuth.Clients
+namespace DotNetOpenAuth.AspNet.Clients
 {
     /// <summary>
     /// Mail.Ru authentication client.
